@@ -1,0 +1,17 @@
+node_modules/
+.next/
+out/
+dist/
+build/
+.env
+.env.*
+!.env.example
+*.log
+.DS_Store
+.vscode/
+*.sqlite
+*.db
+.agents/
+.claude/
+.cursor/
+.devin/
